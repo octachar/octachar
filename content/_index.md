@@ -4,7 +4,7 @@ draft = false
 title = 'Medeori'
 +++
 
-An arsa sidhe woman width ghostly, pale skin, a fierce temper, and a reckless attitude.
+An arsa sidhe woman with ghostly, pale skin, a fierce temper, and a reckless attitude.
 
 {{<button href="subsections/relations/">}}Relations{{</button>}}
 {{<button href="">}}Gallery (W.I.P.){{</button>}}
