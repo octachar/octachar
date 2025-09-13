@@ -19,21 +19,24 @@ Those I know will need to earn their spot in the picture that is my trust.
 | Friend: | Those who I know, but who lack a portion of trust |
 | ---------------- | -------------------------------------------- |
 | **Brieze**       | You betrayed me and lost my trust. I don't hold it against you, though. | 
-| **Meridy**       | A friend, but not one without inexcusable flaws.
+| **Meridy**       | A friend, but not one without flaws.
 | **Valorian**     | Caring. A good friend.
 | **Asteria**      | A nice kid. |
 | **Godfrey**      | Godfrey. Just Godfrey. |
+| **Elova**        | Kind and caring. Rational, which is a compliment here. |
+| **Aoi**          | Supportive of me, even if she's not the best at it. I respect that. |
 
-| Acquaintance: | You are known at the surface, I do not put much trust in you |
-| ------------- | ------------------------------------------------------------ |
-| **Branch**    | Another doctor. Respectable and kind.                        |
-| **Hazel**     | You saved my life, I wish we knew each other more.           |
-| **Tali**      | Silly and fun. I like silly people.                          |
-| **Crow**      | A mercenary. No comment.
+| Acquaintance: | You are known at the surface, I do not put much trust in you                             |
+| ------------- | ---------------------------------------------------------------------------------------- |
+| **Branch**    | Another doctor. Respectable and kind.                                                    |
+| **Hazel**     | You saved my life, I wish we knew each other more.                                       |
+| **Tali**      | Silly and fun. I like silly people.                                                      |
+| **Crow**      | A mercenary. No comment.                                                                 |
+| **Cassie**    | Crewmate. Respectable. I wish I had the bravery (or carelessness) to be blunt like that. |
 
 | Untrusted: | Deceiptful and rude |
 | ---------- | ------------------- |
-| **Kyrus**  | Bitch.              |
+| **Kyrus**  | Look at the above.  |
 
 | Mulrath: | A special section for a special boy |
 | -------- | ----------------------------------- |
