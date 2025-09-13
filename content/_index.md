@@ -1,6 +1,6 @@
 +++
 date = '2025-09-12T16:16:51-04:00'
-draft = true
+draft = false
 title = 'Medeori'
 +++
 
