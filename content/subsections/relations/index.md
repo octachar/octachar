@@ -39,4 +39,4 @@ Those I know will need to earn their spot in the picture that is my trust.
 | -------- | ----------------------------------- |
 | **Mulrath** | Special. |
 
-{{<button href="../../..">}}Back{{</button>}}
+{{<button href="../..">}}Back{{</button>}}
