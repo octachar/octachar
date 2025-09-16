@@ -1,3 +1,3 @@
 User-agent: *
-Allow: /
-Sitemap: https://octachar.github.io/octachar/sitemap.xml
+Disallow: /
+Sitemap: http://localhost:1313/octachar/sitemap.xml

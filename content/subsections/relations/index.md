@@ -6,12 +6,12 @@ title = 'Relations'
 
 Those I know will need to earn their spot in the picture that is my trust.
 
-| Loved: | The one that lights up my world      |
-| ------ | ------------------------------------ |
+| Loved:       | The one that lights up my world                                                                         |
+| ------------ | ------------------------------------------------------------------------------------------------------- |
 | **Anaryele** | My love, you are my sun and moon. You keep me going, and I couldn't wish for anything else. Note: Short |
 
-| Close: | The ones I trust; the ones I cherish  |
-| ------ | ------------------------------------- |
+| Close:     | The ones I trust; the ones I cherish  |
+| ---------- | ------------------------------------- |
 | **Medea**  | My captain. They are fierce, and will do whatever they can to help their crew.
 | **Rio**    | A colleage, a crewmate, a friend. She has helped me in unimaginable ways.
 | **Lia**    | One of my many colleagues at the hospital. She has comforted me beyond what others could do.
@@ -19,12 +19,12 @@ Those I know will need to earn their spot in the picture that is my trust.
 | Friend: | Those who I know, but who lack a portion of trust |
 | ---------------- | -------------------------------------------- |
 | **Brieze**       | You betrayed me and lost my trust. I don't hold it against you, though. | 
-| **Meridy**       | A friend, but not one without flaws.
-| **Valorian**     | Caring. A good friend.
-| **Asteria**      | A nice kid. |
-| **Godfrey**      | Godfrey. Just Godfrey. |
-| **Elova**        | Kind and caring. Rational, which is a compliment here. |
-| **Aoi**          | Supportive of me, even if she's not the best at it. I respect that. |
+| **Meridy**       | A friend, but not one without flaws.                                    |
+| **Valorian**     | Caring. A good friend.                                                  |
+| **Asteria**      | A nice kid.                                                             |
+| **Godfrey**      | Godfrey. Just Godfrey.                                                  |
+| **Elova**        | Kind and caring. Rational, which is a compliment here.                  |
+| **Aoi**          | Supportive of me, even if she's not the best at it. I respect that.     |
 
 | Acquaintance: | You are known at the surface, I do not put much trust in you                             |
 | ------------- | ---------------------------------------------------------------------------------------- |
@@ -38,8 +38,8 @@ Those I know will need to earn their spot in the picture that is my trust.
 | ---------- | ------------------- |
 | **Kyrus**  | Look at the above.  |
 
-| Mulrath: | A special section for a special boy |
-| -------- | ----------------------------------- |
-| **Mulrath** | Special. |
+| Mulrath:    | A special section for a special boy |
+| ----------- | ----------------------------------- |
+| **Mulrath** | Special.                            |
 
 {{<button href="../..">}}Back{{</button>}}
