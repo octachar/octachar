@@ -44,22 +44,28 @@ def dateNow():
 				
 	if currentDate > yearLength:
 		yearCurrent = yearCurrent + math.floor(currentDate/yearLength)
-	return str(day).rjust(2, "0") + "-" + str(monthName+1).rjust(2, "0") + "-" + str(yearCurrent) + "T00:00:00-00:00"
+	return (str(yearCurrent) + "-" + str(monthName+1).rjust(2, "0") + "-" + str(day).rjust(2, "0") + "T00:00:00-00:00",
+		str(yearCurrent) + "-" + str(monthName+1).rjust(2, "0") + "-" + str(day).rjust(2, "0"))
 
 with open(journals + "journal" + str(len(os.listdir(journals)) + 1) + ".md", "w") as f:
-    header = [
+	date = dateNow()
+	
+	contents = [
 		"+++\n",
-		"date = '" + dateNow() + "'\n",
+		"date = '" + date[0] + "'\n",
 		"draft = false\n",
 		"title = 'Journal #" + str(len(os.listdir(journals))) + "'\n",
 		"+++\n",
+		"\n",
+		date[1] + "\n",
 		"\n"
-    ]
-	
-    f.writelines(header)
+		"{{<button href=\"../../..\">}}Back{{</button>}}"
+	]
+
+	f.writelines(contents)
 
 print(
 	"Page created with information:\n",
-	"\tDATE:\t" + dateNow() + "\n",
+	"\tDATE:\t" + dateNow()[1] + "\n",
 	"\tTITLE:\tJournal #" + str(len(os.listdir(journals))) + "\n"
 )
