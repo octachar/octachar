@@ -19,4 +19,6 @@ I spoke with Konrad.
 He simply wanted to know some details about the incidents with
 Mulrath.
 
+1641-07-06
+
 {{<button href="../../..">}}Back{{</button>}}

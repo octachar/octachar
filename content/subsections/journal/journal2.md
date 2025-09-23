@@ -15,4 +15,6 @@ I ran into Valorian, who took me back and found a doctor. They treated me.
 The teahouse was open, so I figured I'd stop by. I hadn't gotten much good rest.
 Those tables and seats were comfortable.
 
+1641-07-04
+
 {{<button href="../../..">}}Back{{</button>}}

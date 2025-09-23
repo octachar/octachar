@@ -22,4 +22,6 @@ hiding next to a tree.
 
 I'm still cold from the frigid waters as I write this.
 
+1641-07-03
+
 {{<button href="../../..">}}Back{{</button>}}
