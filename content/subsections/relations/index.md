@@ -6,18 +6,18 @@ title = 'Relations'
 
 Those I know will need to earn their spot in the picture that is my trust.
 
-| Loved:       | The one that lights up my world                                                                         |
-| ------------ | ------------------------------------------------------------------------------------------------------- |
-| **Anaryele** | My love, you are my sun and moon. You keep me going, and I couldn't wish for anything else. Note: Short |
+| Loved:       | The one that lights up my world                                                                         | Feeling |
+| ------------ | ------------------------------------------------------------------------------------------------------- | ------- |
+| **Anaryele** | My love, you are my sun and moon. You keep me going, and I couldn't wish for anything else. Note: Short | [When Your Heart Stops Beating - +44](https://music.youtube.com/watch?v=usMfopRLM2A&si=SqDywVH6nJ9eEpvL) |
 
-| Close:     | The ones I trust; the ones I cherish  |
-| ---------- | ------------------------------------- |
-| **Medea**  | My captain. They are fierce, and will do whatever they can to help their crew.
-| **Rio**    | A colleage, a crewmate, a friend. She has helped me in unimaginable ways.
-| **Lia**    | One of my many colleagues at the hospital. She has comforted me beyond what others could do.
+| Close:     | The ones I trust; the ones I cherish                                                          | Feeling |
+| ---------- | --------------------------------------------------------------------------------------------- | ------- |
+| **Medea**  | My former captain. They are fierce, and will do whatever they can to help their crew.         |
+| **Rio**    | A colleage, a crewmate, a friend. She has helped me in unimaginable ways.                     | [Coming For You - The Offspring](https://music.youtube.com/watch?v=Df0O70PtVGg&si=B-MdNYVGfyBtSw2d)
+| **Lia**    | One of my many colleagues at the hospital. She has comforted me beyond what others could do.  |
 
-| Friend: | Those who I know, but who lack a portion of trust |
-| ---------------- | -------------------------------------------- |
+| Friend: | Those who I know, but who lack a portion of trust                                | Feeling |
+| ---------------- | ----------------------------------------------------------------------- | ------- |
 | **Brieze**       | You betrayed me and lost my trust. I don't hold it against you, though. | 
 | **Meridy**       | A friend, but not one without flaws.                                    |
 | **Valorian**     | Caring. A good friend.                                                  |
@@ -25,21 +25,22 @@ Those I know will need to earn their spot in the picture that is my trust.
 | **Godfrey**      | Godfrey. Just Godfrey.                                                  |
 | **Elova**        | Kind and caring. Rational, which is a compliment here.                  |
 | **Aoi**          | Supportive of me, even if she's not the best at it. I respect that.     |
+| **Anwar**        | Amazing friend by day, making killer tea by night.                      | [When You Wish Upon A Star - Ned Washington](https://music.youtube.com/watch?v=W4AtLjd_YZU&si=-5LRT1a1X0ptiA5R)
 
 | Acquaintance: | You are known at the surface, I do not put much trust in you                             |
 | ------------- | ---------------------------------------------------------------------------------------- |
 | **Branch**    | Another doctor. Respectable and kind.                                                    |
-| **Hazel**     | You saved my life, I wish we knew each other more.                                       |
+| **Hazel**     | You saved my life, multiple times. I wish we knew each other more.                       |
 | **Tali**      | Silly and fun. I like silly people.                                                      |
 | **Crow**      | A mercenary. No comment.                                                                 |
 | **Cassie**    | Crewmate. Respectable. I wish I had the bravery (or carelessness) to be blunt like that. |
+| **Cuandi**    | Current captain. That is all.                                                            |
+| **Kyrus**     | Not so bad after all.                                                                    |
+| **Konrad**    | My boss.                                                                                 |
 
-| Untrusted: | Deceiptful and rude |
-| ---------- | ------------------- |
-| **Kyrus**  | Look at the above.  |
-
-| Mulrath:    | A special section for a special boy |
-| ----------- | ----------------------------------- |
-| **Mulrath** | Special.                            |
+| Untrusted:   | Deceiptful and rude                                                               | Feeling |
+| ------------ | --------------------------------------------------------------------------------- | ------- |
+| **Mulrath**  | I *would* wish I was on your good side, if you hadn't tortured me.                | [How Bad Can I Be - Ed Helms](https://music.youtube.com/watch?v=Mq-tfxKPN6s&si=P5WjE2kGLworiOBM)
+| **Ultio**    | I don't want to hurt you, but you insist in things I need to stop you from doing. |
 
 {{<button href="../..">}}Back{{</button>}}
