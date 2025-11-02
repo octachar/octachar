@@ -1,15 +1,8 @@
 +++
-<<<<<<< HEAD
-date = '1641-07-07T00:00:00-00:00'
-=======
 date = '1641-07-09T00:00:00-00:00'
->>>>>>> 3c014228fd005823830666394146668619ed94ba
 draft = false
 title = 'Journal #5'
 +++
-
-<<<<<<< HEAD
-=======
 **The Sundering**, oh, **The Sundering**.
 
 I was assigned to be on the offensive against two void creatures.
@@ -26,4 +19,3 @@ I gave them the ring Cadayle gave me; they deserve it more than I do.
 1641-07-09
 
 {{<button href="../../..">}}Back{{</button>}}
->>>>>>> 3c014228fd005823830666394146668619ed94ba
